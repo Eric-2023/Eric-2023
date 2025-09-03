@@ -13,15 +13,48 @@ I enjoy solving complex problems and turning ideas into secure, efficient, and u
 
 ## 🛠️ Tech Stack  
 
-![React](https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Build-Vite-646CFF?logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Language-Typescript-3178C6?logo=typescript&logoColor=white)
-![MUI](https://img.shields.io/badge/UI-Material_UI-0081CB?logo=mui&logoColor=white)
-![Go](https://img.shields.io/badge/Backend-Go-00ADD8?logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Framework-Gin-008080)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/Database-SQLite-07405E?logo=sqlite&logoColor=white)
+### 💻 Languages  
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/Code-Typescript-3178C6?logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)  
+![Go](https://img.shields.io/badge/Code-Go-00ADD8?logo=go&logoColor=white)  
+![SQL](https://img.shields.io/badge/Code-SQL-4479A1?logo=mysql&logoColor=white)  
+![HTML5](https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&logoColor=white)  
+
+---
+
+### ⚙️ Frameworks & Libraries  
+![React](https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white)  
+![Vite](https://img.shields.io/badge/Build-Vite-646CFF?logo=vite&logoColor=white)  
+![MUI](https://img.shields.io/badge/UI-Material_UI-0081CB?logo=mui&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/UI-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+![React-Bootstrap](https://img.shields.io/badge/UI-React_Bootstrap-61DAFB?logo=react&logoColor=white)  
+![Flask](https://img.shields.io/badge/Backend-Flask-000000?logo=flask&logoColor=white)  
+![Gin](https://img.shields.io/badge/Backend-Gin-008080)  
+
+---
+
+### 🗄️ Databases  
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/Database-SQLite-07405E?logo=sqlite&logoColor=white)  
+
+---
+
+### 🧪 Testing  
+![Vitest](https://img.shields.io/badge/Test-Vitest-6E9F18?logo=vitest&logoColor=white)  
+![Jest](https://img.shields.io/badge/Test-Jest-C21325?logo=jest&logoColor=white)  
+![Cypress](https://img.shields.io/badge/Test-Cypress-17202C?logo=cypress&logoColor=white)  
+
+---
+
+### 🛠️ Tools  
+![Git](https://img.shields.io/badge/Version_Control-Git-F05032?logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/Editor-VS_Code-007ACC?logo=visualstudiocode&logoColor=white)  
+![Postman](https://img.shields.io/badge/API-Postman-FF6C37?logo=postman&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white)
+
 
 ---
 
