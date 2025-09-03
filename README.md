@@ -7,6 +7,8 @@ I'm Eric Musembi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-2023&layout=compact&theme=radical" alt="Top Langs" height="150"/>
   <img src="https://streak-stats.demolab.com?user=Eric-2023&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
 </p>
+![Eric's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eric-2023&theme=radical)
+
 
 
 - 🔭 I’m currently working on: Multi-ERP project
