@@ -13,6 +13,9 @@ I'm Eric Musembi
 [![ERP System](https://github-readme-stats.vercel.app/api/pin/?username=Eric-2023&repo=Multi-ERP&theme=radical)](https://github.com/Eric-2023/Multi-ERP)
 [![Travel App](https://github-readme-stats.vercel.app/api/pin/?username=Eric-2023&repo=bakery&theme=radical)](https://github.com/Eric-2023/bakery)
 
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ericmusembi)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ericmusembi2012@gmail.com)
 
 
 
