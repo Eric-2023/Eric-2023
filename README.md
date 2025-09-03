@@ -10,7 +10,7 @@ I'm Eric Musembi
 ![Eric's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eric-2023&theme=radical)
 ## 🚀 Featured Projects
 
-[![ERP System](https://github-readme-stats.vercel.app/api/pin/?username=Eric-2023&repo=MultiERP&theme=radical)](https://github.com/Eric-2023/Multi-ERP)
+[![ERP System](https://github-readme-stats.vercel.app/api/pin/?username=Eric-2023&repo=Multi-ERP&theme=radical)](https://github.com/Eric-2023/Multi-ERP)
 [![Event Planner App](https://github-readme-stats.vercel.app/api/pin/?username=Eric-2023&repo=Event-Planner&theme=radical)](https://github.com/HavenSpaceLtd/Event-Planner)
 
 ## 📫 Connect With Me
