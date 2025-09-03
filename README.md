@@ -10,8 +10,8 @@ I'm Eric Musembi
 ![Eric's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eric-2023&theme=radical)
 ## 🚀 Featured Projects
 
-[![ERP System](https://github-readme-stats.vercel.app/api/pin/?username=Eric-2023&repo=erp-system&theme=radical)](https://github.com/Eric-2023/Multi-ERP)
-[![Travel App](https://github-readme-stats.vercel.app/api/pin/?username=Eric-2023&repo=travel-app&theme=radical)](https://github.com/Eric-2023/bakery)
+[![ERP System](https://github-readme-stats.vercel.app/api/pin/?username=Eric-2023&repo=Multi-ERP&theme=radical)](https://github.com/Eric-2023/Multi-ERP)
+[![Travel App](https://github-readme-stats.vercel.app/api/pin/?username=Eric-2023&repo=bakery&theme=radical)](https://github.com/Eric-2023/bakery)
 
 
 
